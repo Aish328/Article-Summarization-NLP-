@@ -27,6 +27,8 @@ Packages, Libraries & Tools:
 
 • Database and Backend: MongoDB, Express.JS
 
+![prototype](/home/aishanya/Desktop)
+
 • Frontend and Styling: React.JS, Material UI, Tailwind
 
 • Web Framework & Deployment: Flask, Vercel, Netlify
