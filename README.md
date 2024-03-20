@@ -16,27 +16,40 @@ Programming Languages:
 • Backend (+ NLP Tool): Python, JavaScript
 
 Packages, Libraries & Tools:
+
 • Text Summarization: Hugging Face Transformers Library
+
 • Search Engine: LangChain Google Search, Google Custom Programmable Search API
+
 • Keyword Extraction: Google PaLM API
+
 • Web Scraping: BeautifulSoup4 (bs4), Python Requests Library
+
 • Database and Backend: MongoDB, Express.JS
+
 • Frontend and Styling: React.JS, Material UI, Tailwind
+
 • Web Framework & Deployment: Flask, Vercel, Netlify
+
 • Repository Server: GitHub
 
 Workflow:
+
 • We use the query input in order to
 fetch related articles from the web
 using LangChain Google Search
 API (via Custom Programmable
 Search)
+
 • Then summarize the text using
 BART large model
+
 • We go onto generate keywords
 using PaLM API
+
 • Transfer the output as JSON
 object.
+
 • The backend fetches the output
 object and the front end renders it.
 
