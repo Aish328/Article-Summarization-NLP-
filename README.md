@@ -27,8 +27,6 @@ Packages, Libraries & Tools:
 
 • Database and Backend: MongoDB, Express.JS
 
-![prototype](/home/aishanya/Desktop)
-
 • Frontend and Styling: React.JS, Material UI, Tailwind
 
 • Web Framework & Deployment: Flask, Vercel, Netlify
@@ -48,6 +46,8 @@ BART large model
 
 • We go onto generate keywords
 using PaLM API
+
+![prototype](/home/aishanya/Desktop)
 
 • Transfer the output as JSON
 object.
