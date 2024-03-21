@@ -47,7 +47,6 @@ BART large model
 • We go onto generate keywords
 using PaLM API
 
-![prototype](/home/aishanya/Desktop)
 
 • Transfer the output as JSON
 object.
@@ -55,3 +54,5 @@ object.
 • The backend fetches the output
 object and the front end renders it.
 
+
+![prototype](/home/aishanya/Desktop)
