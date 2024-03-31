@@ -12,6 +12,7 @@ Proposed Approach towards the solution:
 
 
 Programming Languages:
+
 • Frontend: HTML, CSS, JavaScript
 • Backend (+ NLP Tool): Python, JavaScript
 
