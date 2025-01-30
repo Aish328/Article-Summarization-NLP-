@@ -1,7 +1,7 @@
 import google.generativeai as palm
 import prompts as pr
 
-api_key = "AIzaSyBqHsPuJdQmzoKQhvTNIkdkCBMa9_aln10"
+api_key = "."
 
 def extract(text):
     text = text.replace("*", "")
